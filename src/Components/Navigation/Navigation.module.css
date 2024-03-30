@@ -1,0 +1,19 @@
+
+.navigation{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  height: 72px;
+}
+.logo img{
+  height: 72px;
+}
+.navigation ul{
+  padding: 0 8px;
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  font-weight: 400;
+  justify-content: center;
+  margin-top: 20px;
+}
